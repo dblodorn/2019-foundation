@@ -1,0 +1,22 @@
+{
+  "wp_endpoint": "https://dmbk.io/wp-json/dmbk-io-api/v1/core",
+  "meta_defaults": {
+    "title": "Site",
+    "description": "Site.",
+    "site_url": "",
+    "bgcolor": "#fff"
+  },
+  "mail_scrape": {
+    "mailchimp_url": ""
+  },
+  "fonts": [
+    "FFF Regular"
+  ],
+  "HEADER_MENU": [
+    {
+      "title": "contact",
+      "slug": "contact",
+      "is_home": false
+    }
+  ]
+}
