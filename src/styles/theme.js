@@ -44,13 +44,13 @@ const colors = {
 }
 
 const fonts = {
-  sans: 'Arial, system-ui, sans-serif',
+  sans: `'GintoNord', Arial, system-ui, sans-serif`,
 }
 
 const baseFontSize = 16
 
 const font_sizes = {
-  giant: 30,
+  giant: 150,
   medium: 25,
   body: 20,
   small: 16,
